@@ -7,7 +7,7 @@ Please cite "Guo, P., Guan, H., & McMechan, G. A. (2020). Data-and model-domain 
 
  "Guo, P., & McMechan, G. A. (2020). Up/down image separation in elastic reverse time migration. Pure and Applied Geophysics, 177(10), 4811-4828." 
 
-To compile RTM with up/down wavefield decomposition, simply open a command window and type:
+To compile RTM with up/down wavefield decomposition, simply open a terminal and type:
 
 ./compile_rtm_ud_p.com
 
