@@ -1,0 +1,27 @@
+       image(:,:)=0.0
+       image_illu(:,:)=0.0
+
+       image_0_tmp=0.0
+       image_01_tmp=0.0
+       image_illu_0_tmp=0.0       
+
+       image_ud=0.0
+       image_du=0.0
+       image_uu=0.0
+       image_dd=0.0
+       image_duud=0.0
+       image_dduu=0.0
+
+       image_ud_0_tmp=0.0
+       image_du_0_tmp=0.0
+       image_uu_0_tmp=0.0
+       image_dd_0_tmp=0.0
+       image_duud_0_tmp=0.0
+       image_dduu_0_tmp=0.0
+
+       image_ud_01_tmp=0.0
+       image_du_01_tmp=0.0
+       image_uu_01_tmp=0.0
+       image_dd_01_tmp=0.0
+       image_duud_01_tmp=0.0
+       image_dduu_01_tmp=0.0
