@@ -3,7 +3,9 @@ Reverse time migration (RTM) with up/down wavefield decomposition.
 
 This is for RTM using acoustic wave equation. Please also note that this repository also contains code that was used for testing purpose during the source code development. 
 
-Please refer to "Guo, P., & McMechan, G. A. (2020). Up/down image separation in elastic reverse time migration. Pure and Applied Geophysics, 177(10), 4811-4828." for more details. 
+Please cite "Guo, P., Guan, H., & McMechan, G. A. (2020). Data-and model-domain up/down wave separation for reverse-time migration with free-surface multiples. Geophysical Journal International, 223(1), 77-93."  & 
+
+ "Guo, P., & McMechan, G. A. (2020). Up/down image separation in elastic reverse time migration. Pure and Applied Geophysics, 177(10), 4811-4828." 
 
 To compile RTM with up/down wavefield decomposition, simply open a command window and type:
 
@@ -19,3 +21,7 @@ ud_flag == 2 "Zhao, Y., Zhang, H., Yang, J., & Fei, T. (2018). Reducing artifact
 ud_flag == 3 "Gao, K., Chi, B., Huang, L. (2017). Elastic least-squares reverse time migration with implicit wavefield separation. In SEG technical program expanded abstracts 2017, Society of Exploration Geophysicists, pp. 4389–4394"
 
 ud_flag == 4 "Duveneck, E. (2018). Up/down separation of seismic depth images. Geophysics, 83(5), S375–S385"
+
+test for changes
+
+
