@@ -1,4 +1,4 @@
-#Reverse time migration (RTM) with up/down wavefield decomposition.
+# Reverse time migration (RTM) with up/down wavefield decomposition.
 
 This is for RTM using acoustic wave equation. Please also note that this repository also contains code that was used for testing purpose during the source code development. 
 
