@@ -1,6 +1,6 @@
 # Reverse time migration (RTM) with up/down wavefield decomposition.
 
-This is for RTM using acoustic wave equation. Please also note that this repository also contains code that was used for testing purpose during the source code development. 
+This is for RTM using acoustic wave equation. Please note that this repository also contains code that was used for testing purpose during the source code development. 
 
 Please cite "Guo, P., Guan, H., & McMechan, G. A. (2020). Data-and model-domain up/down wave separation for reverse-time migration with free-surface multiples. Geophysical Journal International, 223(1), 77-93."  & 
 
