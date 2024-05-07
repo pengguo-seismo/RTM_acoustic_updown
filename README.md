@@ -21,6 +21,8 @@ ud_flag == 3 "Gao, K., Chi, B., Huang, L. (2017). Elastic least-squares reverse 
 
 ud_flag == 4 "Duveneck, E. (2018). Up/down separation of seismic depth images. Geophysics, 83(5), S375–S385"
 
+ud_flag == 5 "Guo, P., & McMechan, G. A. (2020). Up/down image separation in elastic reverse time migration. Pure and Applied Geophysics, 177(10), 4811-4828."
+
 test for changes
 
 
